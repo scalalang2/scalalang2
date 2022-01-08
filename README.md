@@ -1,4 +1,5 @@
 ### DoHyeon Lee 👋
+- Software Engineer.
 - 🎓 M.S. student @ Sogang University (BASELAB)
 - 🌱 Newbie in Blockchain & AI
 - 🌱 BOJ @ scalalang : https://solved.ac/profile/scalalang
