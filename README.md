@@ -6,4 +6,4 @@
 - 📓 Posting history : https://scalalang2.medium.com/
 
 ### Maplestory
-- 크로아 : [scalalang2](https://maple.gg/u/scalalang2) (나로)
+- 크로아 : [gophers2](https://maple.gg/u/gophers2) (나로)
