@@ -4,4 +4,4 @@
 - Make something useful for blockchain or distributed system
 
 ### Projects
-- [cosmoscout](https://github.com/cosmoscout-group/cosmoscout) : An explorer for cosmos based blockchain.
+- [cosmscan](https://github.com/cosmscan/cosmscan) : An explorer for cosmos based blockchain.
