@@ -3,5 +3,5 @@
 - Feel excited when I learn new techs, tools or something cool.
 - Make something useful for blockchain or distributed system
 
-### Opensource Projects
+### Projects
 - [cosmscan](https://github.com/cosmscan/cosmscan) : An explorer for cosmos based blockchain.
