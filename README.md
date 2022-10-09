@@ -5,3 +5,4 @@
 
 ### Projects
 - [cosmscan](https://github.com/cosmscan/cosmscan) : An explorer for cosmos based blockchain.
+- [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
