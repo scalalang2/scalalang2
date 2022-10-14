@@ -8,4 +8,4 @@
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
 ### Profiles
-- [baekjoon](https://www.acmicpc.net/user/scalalang)
+- [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
