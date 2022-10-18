@@ -9,3 +9,6 @@
 
 ### Profiles
 - [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
+
+### Publishing
+- [Medium](https://medium.com/@scalalang2)
