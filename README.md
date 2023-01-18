@@ -1,7 +1,5 @@
 ### Who am I
-- Software engineer who loves designing system.
-- Feel excited when I learn new techs, tools or something cool.
-- Make something useful for blockchain or distributed system
+- The most common software engineer in the world.
 
 ### Projects
 - [cosmscan-go](https://github.com/cosmscan/cosmscan-go) : An indexer engine for comsos based blockchain (golang)
