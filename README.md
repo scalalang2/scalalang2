@@ -1,5 +1,6 @@
 ### Who am I
 - The most common software engineer in the world.
+- Specially interested in distributed system.
 
 ### Projects
 - [cosmscan-go](https://github.com/cosmscan/cosmscan-go) : An indexer engine for comsos based blockchain (golang)
