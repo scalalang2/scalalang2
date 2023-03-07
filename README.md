@@ -3,6 +3,7 @@
 - Specially interested in distributed system.
 
 ### Projects
+- [akaps](https://github.com/scalalang2/akaps) : work in progress
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
