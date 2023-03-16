@@ -3,7 +3,7 @@
 - Specially interested in distributed system.
 
 ### Projects
-- [hunsu-insect](https://github.com/scalalang2/hunsu-insect) : work in progress
+- [hunsu](https://github.com/scalalang2/hunsu) : work in progress
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
