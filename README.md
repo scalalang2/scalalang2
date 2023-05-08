@@ -6,7 +6,6 @@
 - [fakerd](https://github.com/scalalang2/fakerd) : Unified fake message genrator daemon.
 - [kafka-faker](https://github.com/scalalang2/kafka-faker) : A fake message generator for apache kafka.
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
-- [hunsu](https://github.com/scalalang2/hunsu) : work in progress
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
 ### Hobbies
