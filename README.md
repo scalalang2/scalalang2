@@ -1,6 +1,5 @@
-### About Me
+### $ whoami?
 - The most common software engineer in the world.
-- Specially interested in distributed system.
 
 ### Projects
 - [kafka-faker](https://github.com/scalalang2/kafka-faker) : A fake message generator for apache kafka.
