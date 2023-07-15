@@ -9,7 +9,6 @@
 ### Hobbies
 - [pyflink-playgound](https://github.com/scalalang2/pyflink-playground) : The playground for PyFlink written with Helm chart.
 - [raft](https://github.com/scalalang2/raft) : Simple implementation of the Raft algorithm in Golang, using the gRPC protocol.
-- [hawks](https://github.com/scalalang2/hawks) : hmmmmm
 
 ### Profiles
 
