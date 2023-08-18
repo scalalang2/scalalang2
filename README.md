@@ -1,5 +1,6 @@
 ### $ whoami?
-- The most common software engineer in the world.
+- 💻 A software engineer in the gaming industry
+- 🛠️ Loves to find problems, and solves it.
 
 ### Projects
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
