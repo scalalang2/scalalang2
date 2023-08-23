@@ -1,7 +1,7 @@
 ### $ whoami?
 - 💻 A software engineer in the gaming industry
 - 🛠️ Loves to find problems, and solves it.
-- 🎮 A huge fan of Genshin Impacts and Dungeon & Fighter Mobile
+- 🎮 A huge fan of Genshin Impacts
 
 ### Projects
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
