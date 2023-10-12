@@ -9,6 +9,7 @@
 
 ### Hobbies
 - [pyflink-playgound](https://github.com/scalalang2/pyflink-playground) : The playground for PyFlink written with Helm chart.
+- [C# by examples](https://github.com/scalalang2/csharp-by-example) : A collection of examples that help developers to start writing their own program in one day.
 
 ### Profiles
 - [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
