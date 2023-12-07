@@ -4,6 +4,7 @@
 - 🎮 A huge fan of Genshin Impacts & STARRAIL
 
 ### Projects
+- [golang-fifo](https://github.com/scalalang2/golang-fifo) : An implementation of [S3-FIFO](https://dl.acm.org/doi/10.1145/3600006.3613147) cache eviction algorithm in golang.
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
