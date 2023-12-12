@@ -18,3 +18,6 @@
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
+
+### Education
+- [Sognag Univ. BASELAB](https://baselab.sogang.ac.kr/baselab/index.html)
