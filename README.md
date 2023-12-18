@@ -15,9 +15,7 @@
 ### Profiles
 - [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
 - [atcoder | scalalang](https://atcoder.jp/users/scalalang)
+- [hoyolab | scalalang2](https://www.hoyolab.com/accountCenter/postList?id=49770677)
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
-
-### Education
-- [Sogang Univ. BASELAB](https://baselab.sogang.ac.kr/baselab/index.html)
