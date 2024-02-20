@@ -1,7 +1,7 @@
 ### $ whoami?
 - 💻 A software engineer in the gaming industry
 - 🛠️ Loves to find problems, and solves it.
-- 🎮 A huge fan of Genshin Impacts & STARRAIL
+- 🎮 Plays Genshin Impacts, Honkai: Star Rail and Palworld.
 
 ### Projects
 - [golang-fifo](https://github.com/scalalang2/golang-fifo) : An implementation of [SIEVE](https://junchengyang.com/publication/nsdi24-SIEVE.pdf) and [S3-FIFO](https://dl.acm.org/doi/10.1145/3600006.3613147) cache eviction algorithm in golang.
