@@ -1,5 +1,5 @@
 ### $ whoami?
-- 💻 A software engineer in the gaming industry
+- 💻 A software engineer.
 - 🛠️ Loves to find problems, and solves it.
 - 🎮 Plays Honkai: Star Rail, Genshin Impacts and The Finals.
 
