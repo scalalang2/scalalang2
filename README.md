@@ -15,6 +15,7 @@
 ### Profiles
 - [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
 - [atcoder | scalalang](https://atcoder.jp/users/scalalang)
+- [leetcode | scalalang2](https://leetcode.com/u/scalalang2/)
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
