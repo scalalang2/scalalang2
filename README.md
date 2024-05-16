@@ -15,7 +15,7 @@
 ### Profiles
 - [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
 - [atcoder | scalalang](https://atcoder.jp/users/scalalang)
-- [hoyolab | scalalang2](https://www.hoyolab.com/accountCenter/postList?id=49770677)
+- [starrail | scalalang2]([https://www.hoyolab.com/accountCenter/postList?id=49770677](https://act.hoyolab.com/app/community-game-records-sea/rpg/index.html?bbs_presentation_style=fullscreen&gid=6&user_id=49770677&utm_source=share&utm_medium=link&lang=ko-kr&bbs_theme=dark&bbs_theme_device=1&utm_campaign=web#/hsr))
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
