@@ -13,7 +13,7 @@
 - [C# by examples](https://github.com/scalalang2/csharp-by-example) : A collection of examples that help developers to start writing their own program in one day.
 
 ### Profiles
-- [baekjoon | scalalang](https://boj.kr/scalalang)
+- [baekjoon | scalalang](https://www.acmicpc.net/user/scalalang)
 - [atcoder | scalalang](https://atcoder.jp/users/scalalang)
 - [leetcode | scalalang2](https://leetcode.com/u/scalalang2/)
 
