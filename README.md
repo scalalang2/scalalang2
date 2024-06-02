@@ -14,8 +14,8 @@
 
 ### Profiles
 - BOJ @scalalang
-- AtCoder @scalalang
-- LeetCode @scalalang2
+- [AtCoder @scalalang](https://atcoder.jp/users/scalalang)
+- [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
