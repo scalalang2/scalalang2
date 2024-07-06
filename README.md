@@ -13,9 +13,10 @@
 - [C# by examples](https://github.com/scalalang2/csharp-by-example) : A collection of examples that help developers to start writing their own program in one day.
 
 ### Profiles
-- [Solved.ac @scalalang](https://solved.ac/profile/scalalang)
 - [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
 - [AtCoder @scalalang](https://atcoder.jp/users/scalalang)
+- solved.ac @scalalang
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scalalang)](https://solved.ac/scalalang/)
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
