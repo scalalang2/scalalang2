@@ -13,9 +13,9 @@
 - [C# by examples](https://github.com/scalalang2/csharp-by-example) : A collection of examples that help developers to start writing their own program in one day.
 
 ### Profiles
-- BOJ @scalalang
-- [AtCoder @scalalang](https://atcoder.jp/users/scalalang)
+- [BOJ @scalalang](https://www.acmicpc.net/user/scalalang)
 - [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
+- [AtCoder @scalalang](https://atcoder.jp/users/scalalang)
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
