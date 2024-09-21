@@ -1,7 +1,7 @@
 ### $ whoami?
 - 💻 A software engineer.
 - 🛠️ Loves to find problems, and solves it.
-- 🎮 Plays Honkai: Star Rail, Genshin Impacts and The Finals.
+- 🎮 Plays Honkai: Star Rail, Genshin Impacts and Zenless Zone Zero.
 
 ### Projects
 - [golang-fifo](https://github.com/scalalang2/golang-fifo) : An implementation of [SIEVE](https://junchengyang.com/publication/nsdi24-SIEVE.pdf) and [S3-FIFO](https://dl.acm.org/doi/10.1145/3600006.3613147) cache eviction algorithm in golang.
