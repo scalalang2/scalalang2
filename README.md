@@ -8,9 +8,8 @@
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
-### Hobbies
-- [pyflink-playgound](https://github.com/scalalang2/pyflink-playground) : The playground for PyFlink written with Helm chart.
-- [C# by examples](https://github.com/scalalang2/csharp-by-example) : A collection of examples that help developers to start writing their own program in one day.
+### Achievements
+- Hyundae MOBIS Algorithm Competition 2024 / Excellence Award
 
 ### Profiles
 - [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
