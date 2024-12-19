@@ -18,5 +18,5 @@
 ### Profiles
 - [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
 - [AtCoder @scalalang](https://atcoder.jp/users/scalalang)
-- 
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scalalang)](https://solved.ac/scalalang/)
