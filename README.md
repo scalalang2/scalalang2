@@ -14,6 +14,7 @@
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
+- [Blog](https://medium.com/scalalang)
 
 ### Contributions
 - [orleans#9165](https://github.com/dotnet/orleans/pull/9165)
