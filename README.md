@@ -10,6 +10,7 @@
 
 ### Achievements
 - [Hyundae MOBIS Algorithm Competition 2024](https://career.programmers.co.kr/competitions/3980) - Excellence Award
+- Hanhwa Dreamin Blockchain Hackathon 2021 - 1st. 애플워치한화만줘팀
 
 ### Publishment
 - [Medium](https://scalalang2.medium.com/)
