@@ -11,12 +11,11 @@
 ### Achievements
 - [Hyundae MOBIS Algorithm Competition 2024](https://career.programmers.co.kr/competitions/3980) - Excellence Award
 
+### Publishment
+- [Medium](https://scalalang2.medium.com/)
+
 ### Profiles
 - [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
 - [AtCoder @scalalang](https://atcoder.jp/users/scalalang)
-- solved.ac @scalalang
-
+- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scalalang)](https://solved.ac/scalalang/)
-
-### Publishment
-- [Medium](https://scalalang2.medium.com/)
