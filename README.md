@@ -18,6 +18,7 @@
 
 ### Contributions
 - [orleans#9165](https://github.com/dotnet/orleans/pull/9165)
+- [grafana/tempo#2105](https://github.com/grafana/tempo/pull/2105)
 
 ### Profiles
 - [LeetCode @scalalang2](https://leetcode.com/u/scalalang2/)
