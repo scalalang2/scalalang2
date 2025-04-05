@@ -5,6 +5,7 @@
 
 ### Projects
 - [golang-fifo](https://github.com/scalalang2/golang-fifo) : An implementation of [SIEVE](https://junchengyang.com/publication/nsdi24-SIEVE.pdf) and [S3-FIFO](https://dl.acm.org/doi/10.1145/3600006.3613147) cache eviction algorithm in golang.
+- [AutogenCryptoTrader.NET](https://github.com/scalalang2/AutogenCryptoTrader.NET) : Crypto trading agents built in [Autogen](https://github.com/microsoft/autogen)
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
