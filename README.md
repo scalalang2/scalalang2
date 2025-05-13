@@ -18,7 +18,7 @@
 - [Blog](https://medium.com/scalalang)
 
 ### Contributions
-- .NET Orleans [#9165](https://github.com/dotnet/orleans/pull/9165), [#9492](https://github.com/dotnet/orleans/pull/9492), [#9490](https://github.com/dotnet/orleans/pull/9490)
+- [dotnet/orleans](https://github.com/dotnet/orleans) [#9165](https://github.com/dotnet/orleans/pull/9165), [#9492](https://github.com/dotnet/orleans/pull/9492), [#9490](https://github.com/dotnet/orleans/pull/9490)
 - [grafana/tempo#2105](https://github.com/grafana/tempo/pull/2105)
 
 ### Profiles
