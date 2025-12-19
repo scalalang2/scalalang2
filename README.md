@@ -6,7 +6,6 @@
 ### Projects
 - [golang-fifo](https://github.com/scalalang2/golang-fifo) : An implementation of [SIEVE](https://junchengyang.com/publication/nsdi24-SIEVE.pdf) and [S3-FIFO](https://dl.acm.org/doi/10.1145/3600006.3613147) cache eviction algorithm in golang.
 - [upbit-mcp-server](https://github.com/scalalang2/upbit-mcp-server) : MCP Server for Upbit APIs
-- [(WIP) upbit-trading-agent](https://github.com/scalalang2/upbit-trading-agent) : Agentic Trading System for Upbit API built with [Agent Framework](https://github.com/microsoft/agent-framework)
 - [crypto-ai-hedge-fund](https://github.com/scalalang2/crypto-ai-hedge-fund) : Crypto AI Hedge Fund inspired by [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) and [TradingAgents (AAAI'25)](https://openreview.net/attachment?id=4QPrXwMQt1&name=pdf)
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
