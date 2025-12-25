@@ -11,7 +11,7 @@
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
 
 ### Achievements
-- [Hyundae MOBIS Algorithm Competition 2024](https://career.programmers.co.kr/competitions/3980) - Excellence Award (우수상)
+- [Hyundae MOBIS Algorithm Competition 2024](https://www.hyundaimotorgroup.com/ko/news/CONT0000000000156410) - Excellence Award (우수상)
 - Hanhwa Dreamin Blockchain Hackathon 2021 - 1st. 애플워치한화만줘팀
 
 ### Publishment
