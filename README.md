@@ -1,6 +1,6 @@
 ### $ whoami?
 - 💻 A software engineer.
-- 🛠️ Loves to find problems, and solves it.
+- 🛠️ Loves to find problems.
 - 🎮 Plays Zenless Zone Zero and Genshin Impacts.
 
 ### Projects
