@@ -9,6 +9,7 @@
 - [crypto-ai-hedge-fund](https://github.com/scalalang2/crypto-ai-hedge-fund) : Crypto AI Hedge Fund inspired by [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) and [TradingAgents (AAAI'25)](https://openreview.net/attachment?id=4QPrXwMQt1&name=pdf)
 - [cosmscan-rs](https://github.com/cosmscan/cosmscan-rs) : An indexer engine for cosmos based blockchain (rust).
 - [cosmfaucet](https://github.com/scalalang2/cosmfaucet) : Multi-chain faucet for cosmos based blockchains.
+- [Orleans.Partitioned.Transactional.DynamoDB](https://github.com/scalalang2/Orleans.Partitioned.Transactional.DynamoDB) : DynamoDB transactional storage provider for the Orleans framework, with support for partitioned data structures.
 
 ### Achievements
 - [Hyundae MOBIS Algorithm Competition 2024](https://www.hyundaimotorgroup.com/ko/news/CONT0000000000156410) - Excellence Award (우수상)
