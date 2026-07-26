@@ -16,6 +16,7 @@
 - Hanhwa Dreamin Blockchain Hackathon 2021 - 1st. 애플워치한화만줘팀
 
 ### Publishment
+- [Blog](https://scalalang2.com/)
 - [Medium](https://scalalang2.medium.com/)
 
 ### Contributions
